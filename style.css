@@ -1,0 +1,28 @@
+.mur-logo{
+    width: 120px; 
+}
+
+.border-markup{
+    border: 0.5px solid black;
+    text-align: center;
+    margin: 5%; 
+}
+
+.header-text{
+    color: cyan; 
+}
+
+.text{
+    font-weight: bold;
+}
+
+.text-column{
+    padding: 3%; 
+}
+
+.form-column{
+    text-align: center;
+    background-color: #C3CBD2;
+    margin: 3%; 
+    padding: 3%; 
+}
