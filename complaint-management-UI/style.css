@@ -8,6 +8,26 @@
     margin: 5%; 
 }
 
+.main-body{
+    margin: 5%; 
+}
+
+.button{
+    height: 25px; 
+    padding: 100px; 
+}
+
+.green-button{
+    background-color: green; 
+    color: white; 
+}
+
+.disclose{
+    width: 200px; 
+    height: 80px; 
+    margin-top: 15%; 
+}
+
 .header-text{
     color: cyan; 
 }
